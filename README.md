@@ -1,6 +1,6 @@
 # Drug Discovery using Deep Learning & Neural Networks
 
-## Background, Introduction, Motivation
+## Background, Motivation
 
 The motivation for this research project stems from the challenges faced today in the bio-medicine  and pharmaceutical field. The process of finding new drugs that cure a wide range of diseases has always been a key focus area in sciences and humanity. To give a brief sense of what the status quo looks like in the current drug discovery pipeline, drugs traditionally go through a pipeline from research inception to FDA approval and production over a span of around 12 years, with an average cost of $2.6 billion (Raval, 2018). A primary reason for this is attributed to the immense time requirements needed to test out all possible protein-ligand combinations in order to find a suitable candidate for an approved drug. After going through the entire process, it is said that “90% of all clinical trials still fail in humans trials, even after the drugs have been successfully tested in animals” (Raval, 2018). 
 
